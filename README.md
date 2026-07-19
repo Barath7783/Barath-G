@@ -119,18 +119,6 @@ Repository: https://github.com/Barath7783/personal-portfolio
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Barath7783&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barath7783&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -146,16 +134,6 @@ Repository: https://github.com/Barath7783/personal-portfolio
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barath7783&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Barath7783&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
