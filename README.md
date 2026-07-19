@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barath G</h1>
 
 <h3 align="center">
-AI/ML Engineer | Generative AI Enthusiast | Building Intelligent Solutions
+Aspiring AI/ML Engineer | Building Intelligent Solutions
 </h3>
 
 <p align="center">
@@ -79,7 +79,7 @@ Predicts heart disease using Machine Learning algorithms.
 
 `Python` `Scikit-learn` `Pandas`
 
-Repository: YOUR_GITHUB_LINK
+Repository: https://github.com/Barath7783/Heart-Disease-Detection-project
 
 ---
 
